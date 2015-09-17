@@ -39,8 +39,8 @@ public class GameSettings{
 	
 	// speed, acceleration, lean, handling
 	static BikeStatics[] bikeStatisticsArray = {new BikeStatics(0.45f, 0.5f, 0.5f, 0.45f), 
-		new BikeStatics(0.55f, 0.60f, 0.65f, 0.50f), 
-		new BikeStatics(0.65f, 0.75f, 0.80f, 0.60f),
+		new BikeStatics(0.85f, 0.80f, 0.65f, 0.50f), 
+		new BikeStatics(0.75f, 0.75f, 0.80f, 0.60f),
 		new BikeStatics(0.75f, 0.80f, 0.85f, 0.70f),
 		new BikeStatics(0.85f, 0.88f, 0.88f, 0.80f),
 		new BikeStatics(0.95f, 0.90f, 0.95f, 0.90f)};

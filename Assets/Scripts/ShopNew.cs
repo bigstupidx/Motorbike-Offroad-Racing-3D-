@@ -28,7 +28,7 @@ public class ShopNew : MonoBehaviour {
 	private int curBike;
 	private GameData data;
 
-	private string[] bikeNames = {"Super Bike","Speed Bike","Offroad Bike","Motocross Bike","Police Bike","Bike 06"};
+	private string[] bikeNames = {"Speed Bike","Super Bike","Offroad Bike","Motocross Bike","Police Bike","Bike 06"};
 	public static int[] prices = {0,20000,40000,65000,80000,100000};
 
 	private bool isAction = false;
